@@ -1,4 +1,15 @@
-Fejelsztőpanel (Fusion V7)
+Szoftverek:
+MpLabX IDE keretkörnyezet
+https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide
+
+XC32 "C" fordító (MpLabX IDE alá kell telepíteni)
+https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc32
+
+---------------------------------------------
+
+Fejlesztőpanel
+
+Fejlesztőpanel (Fusion V7)
 https://www.mikroe.com/easypic-fusion
 
 User Manual
